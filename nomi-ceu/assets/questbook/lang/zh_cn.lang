@@ -792,7 +792,7 @@ nomifactory.quest.normal.db.214.desc=如果你去了月球，就能用§6月面�
 
 # db 215 of mode normal
 nomifactory.quest.normal.db.215.title=§2泵
-nomifactory.quest.normal.db.215.desc=§2泵现在在格雷科技中可用了。对收集§6油§r或从下界收集§6熔岩§r很有用。
+nomifactory.quest.normal.db.215.desc=§2泵§r现在在格雷科技中可用了。对收集§6油§r或从下界收集§6熔岩§r很有用。
 
 # db 216 of mode normal
 nomifactory.quest.normal.db.216.title=§2小型微型宇宙投影仪
@@ -1664,7 +1664,7 @@ nomifactory.quest.normal.db.546.desc=§o注意：这个任务同时接受LV和MV
 
 # db 548 of mode normal
 nomifactory.quest.normal.db.548.title=模具
-nomifactory.quest.normal.db.548.desc=§a模具§r用于§3流体固化机§r或§3合金炉§r，将材料形成特定形状。这些东西在制作过程中不会被消耗或损坏，所以你可以把它们放在机器里，专门用于该形状。%n%n流体固化机往往是更有效的选择：例如，你可以用§e8个锭§r在合金炉制造一个§6齿轮§r，但用提取机和流体固化机，你可以用§e4个锭§r达到同样的结果。%n%n小心不要意外地制造出§a模头形状§r。那些是为你以后会接触到的机器准备的。这个任务中的三个模具是你马上就会发现有用的。
+nomifactory.quest.normal.db.548.desc=§a模具§r用于§3流体固化机§r或§3合金炉§r，将材料形成特定形状。这些东西在制作过程中不会被消耗或损坏，所以你可以把它们放在机器里，专门用于该形状。%n%n流体固化机往往是更有效的选择：例如，你可以用§e8个锭§r在合金炉制造一个§6齿轮§r，但用提取机和流体固化机，你可以用§e4个锭§r达到同样的结果。%n%n小心不要意外地制造出§a模头形状§r。那些是为你以后会接触到的机器准备的。这个任务中的两个模具是你马上就会发现有用的。
 
 # db 549 of mode normal
 nomifactory.quest.normal.db.549.title=§2流体钻机
